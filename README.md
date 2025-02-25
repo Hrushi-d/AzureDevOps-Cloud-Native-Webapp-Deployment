@@ -599,5 +599,5 @@ These skills provide a solid foundation for implementing DevOps practices in clo
 ## Contact Us 📧
 
 Have questions, feedback, or need assistance? Reach out to:
-Email: [hrushikeshdagwar@gmail.com](mailto:hrushikeshdagwar@gmail.com)
+- Email: [hrushikeshdagwar@gmail.com](mailto:hrushikeshdagwar@gmail.com)
 
