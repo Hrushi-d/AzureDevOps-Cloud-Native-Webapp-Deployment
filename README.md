@@ -423,9 +423,9 @@ To fully automate the process, set up webhook triggers between repositories:
 2. **Configure CD Pipeline Trigger**:
    - Ensure the CD pipeline triggers on changes to the main branch of the `admin_portfolio` repository
 
-### 4.6 Custom Image Tagging Script (Advanced)
+### 4.6 Custom Image Tagging Script
 
-For more advanced scenarios, create a dedicated script for image tagging:
+For more advanced scenarios, a dedicated script for image tagging:
 
 ```bash
 #!/bin/bash
