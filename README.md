@@ -592,7 +592,7 @@ This project demonstrates a complete DevOps workflow for deploying web applicati
 - Automate the entire deployment process using Azure DevOps CI/CD pipelines
 - Monitor Kubernetes workloads using Azure Portal
 
-These skills provide a solid foundation for implementing DevOps practices in cloud environments, enabling more efficient and reliable software delivery.performance
+These skills provide a solid foundation for implementing DevOps practices in cloud environments, enabling more efficient and reliable software delivery
 
 ---
 
